@@ -47,7 +47,16 @@ body{
     padding-top: 60px;
     box-shadow: 10px 5px 5px black;
 }
-
+.testo{
+    font-family: 'Tilt Prism', cursive;
+    font-weight: bold;
+    font-size: 1.8em;
+}
+.paragrafo{
+    font-family: 'Tilt Prism', cursive;
+    font-weight: bold;
+    font-size: 1.2em;
+}
 .post-it-yellow:hover, .post-it-green:hover, .post-it-red:hover{
     transform:perspective(30px) translateZ(5px);
     z-index: 1;
